@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">Abhishek</div>
+          <div className="left">MaxFooD</div>
           <div className="right">
             <p>Nit,kolkata</p>
             <p>Open: 10:00 AM - 10:00 PM</p>

@@ -7,9 +7,8 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+           At MaxFood, our dedicated team works behind the scenes to make your dining experience seamless and enjoyable. 
+           Passionate, skilled, and customer-focused, we bring you the best in restaurant reservations.
           </p>
         </div>
         <div className="team_container">

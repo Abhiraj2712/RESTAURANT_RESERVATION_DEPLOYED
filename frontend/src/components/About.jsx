@@ -13,13 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              Welcome to MaxFood, your ultimate solution for effortless dining experiences. MaxFood lets you discover and reserve tables at your favorite restaurants in just a few clicks, ensuring you always have a spot for every meal. Designed for both diners and restaurant owners, our platform offers real-time availability, instant confirmations, and easy management of reservations. Whether it’s a casual dinner, a special celebration, or a business lunch, MaxFood makes dining out simple, convenient, and enjoyable.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
